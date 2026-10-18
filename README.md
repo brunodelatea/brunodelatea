@@ -83,8 +83,8 @@ Comenta a palavra no vídeo e o link chega. Ou pega direto aqui. A tabela se atu
 ## 📈 Atividade
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunodelatea&show_icons=true&hide_border=true&bg_color=0F0F11&title_color=FFE14D&icon_color=A79BFF&text_color=F2F2F2&ring_color=FFE14D&locale=pt-br&include_all_commits=true&hide_title=true" alt="Estatísticas do GitHub" height="165">
-  <img src="https://streak-stats.demolab.com/?user=brunodelatea&hide_border=true&background=0F0F11&ring=FFE14D&fire=FFE14D&currStreakNum=F2F2F2&currStreakLabel=FFE14D&sideNums=F2F2F2&sideLabels=A3A1A8&dates=6E6C75&stroke=2C2C33&locale=pt_BR" alt="Sequência de contribuições" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunodelatea&show_icons=true&hide_border=true&bg_color=0F0F11&title_color=FFE14D&icon_color=A79BFF&text_color=F2F2F2&ring_color=FFE14D&locale=pt-br&include_all_commits=true&hide_title=true&disable_animations=true" alt="Estatísticas do GitHub" height="165">
+  <img src="https://streak-stats.demolab.com/?user=brunodelatea&hide_border=true&background=0F0F11&ring=FFE14D&fire=FFE14D&currStreakNum=F2F2F2&currStreakLabel=FFE14D&sideNums=F2F2F2&sideLabels=A3A1A8&dates=6E6C75&stroke=2C2C33&locale=pt_BR&disable_animations=true" alt="Sequência de contribuições" height="165">
 </p>
 
 <p align="center">

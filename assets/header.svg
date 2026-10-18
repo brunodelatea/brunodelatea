@@ -36,14 +36,14 @@
 
     <!-- frase com marca-texto animado -->
     <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="25" font-weight="500">
-      <text x="56" y="152" fill="#A3A1A8">Dev mostrando a IA que eu uso</text>
-      <rect x="434" y="128" width="0" height="34" rx="4" fill="#FFE14D">
+      <text x="56" y="152" fill="#A3A1A8" textLength="366" lengthAdjust="spacingAndGlyphs">Dev mostrando a IA que eu uso</text>
+      <rect x="432" y="128" width="0" height="34" rx="4" fill="#FFE14D">
         <animate attributeName="width" from="0" to="158" dur="0.7s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
       </rect>
-      <text x="441" y="152" fill="#141200" font-weight="700" opacity="0">de verdade
+      <text x="441" y="152" fill="#141200" font-weight="700" opacity="0" textLength="140" lengthAdjust="spacingAndGlyphs">de verdade
         <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="0.9s" fill="freeze"/>
       </text>
-      <text x="600" y="152" fill="#A3A1A8">no trabalho.</text>
+      <text x="602" y="152" fill="#A3A1A8" textLength="146" lengthAdjust="spacingAndGlyphs">no trabalho.</text>
     </g>
 
     <!-- linha de apoio -->
