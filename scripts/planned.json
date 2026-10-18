@@ -1,0 +1,48 @@
+{
+  "_comment": "Repositórios anunciados nos vídeos. Quando um deles fica público no GitHub, o script troca 🔒 por ✅ e põe o link sozinho. Ordem = ordem da tabela.",
+  "exclude": ["brunodelatea", "brunodelatea.github.io", "aws-cdk"],
+  "repos": [
+    {
+      "name": "ai-code-review-bot",
+      "word": "REPO",
+      "pt": "Agente que revisa pull requests sozinho: lê o diff, aplica regras de qualidade e segurança, comenta e decide aprovar ou devolver.",
+      "en": "An agent that reviews pull requests on its own: reads the diff, applies quality and security rules, comments, and approves or sends it back."
+    },
+    {
+      "name": "claude-code-skills",
+      "word": "SKILLS",
+      "pt": "As skills do Claude Code que eu uso todo dia (automação, revisão, operação), prontas para instalar em qualquer projeto.",
+      "en": "The Claude Code skills I use every day (automation, review, ops), ready to drop into any project."
+    },
+    {
+      "name": "remotion-reels-pipeline",
+      "word": "REELS",
+      "pt": "Pipeline que escreve e renderiza Reels em código (Remotion): cenas, legenda karaokê, identidade visual e mixagem de áudio.",
+      "en": "A pipeline that writes and renders Reels as code (Remotion): scenes, karaoke captions, brand system and audio mix."
+    },
+    {
+      "name": "local-voice-clone",
+      "word": "VOZ",
+      "pt": "Clone de voz 100% local numa RTX 3060 (Qwen3-TTS), da gravação de referência até a narração final.",
+      "en": "A 100% local voice clone on an RTX 3060 (Qwen3-TTS), from the reference recording to the final narration."
+    },
+    {
+      "name": "ptbr-tts-phonetics",
+      "word": "FONÉTICA",
+      "pt": "Camada de fonética pt-BR para TTS: detecta palavras em inglês e aplica a pronúncia abrasileirada automaticamente.",
+      "en": "A pt-BR phonetics layer for TTS: detects English words and applies Brazilian pronunciation automatically."
+    },
+    {
+      "name": "ai-talking-head-editor",
+      "word": "EDIT",
+      "pt": "Editor automático de vídeo falado: transcreve, corta silêncio e gaguejo, corrige a fala com voz clonada, reenquadra pro vertical e queima legenda karaokê.",
+      "en": "Automatic talking-head editor: transcribes, cuts silence and stutters, fixes speech with a cloned voice, reframes to vertical and burns karaoke captions."
+    },
+    {
+      "name": "auto-meeting-notes",
+      "word": "ATA",
+      "pt": "Transcreve reuniões (quem falou, quando), gera a ata sozinho e avisa por push quando termina.",
+      "en": "Transcribes meetings (who spoke, when), writes the minutes on its own and sends a push when it's done."
+    }
+  ]
+}
